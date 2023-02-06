@@ -1,6 +1,12 @@
 # PyTesseract Wrapper
 
+![Image from Pexel](pexels-pixabay-144234.jpeg)
+Source: https://pixabay.com/users/pexels-2286921/
+
+  
+  
 This is just a Tesseract Wrapper. (https://github.com/tesseract-ocr/tesseract)
+
 
 
 Prerequisites:
