@@ -16,5 +16,5 @@ How to use:
 - Clone this repository
 - Create a folder named data in the root of the project
 - Put your PDFs in the data folder
-- Run the following command: `docker-compose up`
+- Run the following command: `docker-compose up --build`
 - The output will be in the output folder
