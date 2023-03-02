@@ -1,13 +1,14 @@
 # import the necessary packages
 import re
-from PIL import Image
-import pytesseract
-from pathlib import Path
-from pdf2image import convert_from_path
-
 
 # start the timer to measure the time it takes to process all of the images
 import time
+from pathlib import Path
+
+import pytesseract
+from pdf2image import convert_from_path
+from PIL import Image
+
 start = time.time()
 
 
